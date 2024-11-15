@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adba37ae-baf2-401f-9838-8a27fa8302b4" name="Changes" comment="merge">
-      <change beforePath="$PROJECT_DIR$/Al brooks/Al Brooks 价格行为交易区间篇.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Al brooks/Al Brooks 价格行为交易区间篇.docx" afterDir="false" />
-    </list>
+    <list default="true" id="adba37ae-baf2-401f-9838-8a27fa8302b4" name="Changes" comment="merge" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +28,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RebelAgentSelection">
@@ -49,7 +48,7 @@
       <workItem from="1721808210721" duration="73000" />
       <workItem from="1729841774750" duration="786000" />
       <workItem from="1730079183403" duration="89000" />
-      <workItem from="1731572599663" duration="645000" />
+      <workItem from="1731572599663" duration="971000" />
     </task>
     <task id="LOCAL-00001" summary="merge">
       <created>1731572637775</created>
